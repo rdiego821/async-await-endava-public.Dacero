@@ -11,3 +11,16 @@ C:\AsyncTraining\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.csproj.Co
 C:\AsyncTraining\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.csproj.CopyComplete
 C:\AsyncTraining\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.exe
 C:\AsyncTraining\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\bin\Debug\10DemoUI.exe.config
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\bin\Debug\10DemoUI.exe
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\bin\Debug\10DemoUI.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\bin\Debug\10DemoUI.Core.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\bin\Debug\10DemoUI.Core.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\obj\Debug\10DemoUI.csprojAssemblyReference.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\obj\Debug\_10DemoUI.Form1.resources
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\obj\Debug\_10DemoUI.Properties.Resources.resources
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\obj\Debug\10DemoUI.csproj.GenerateResource.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\obj\Debug\10DemoUI.csproj.CoreCompileInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\obj\Debug\10DemoUI.csproj.CopyComplete
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\obj\Debug\10DemoUI.exe
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI\obj\Debug\10DemoUI.pdb

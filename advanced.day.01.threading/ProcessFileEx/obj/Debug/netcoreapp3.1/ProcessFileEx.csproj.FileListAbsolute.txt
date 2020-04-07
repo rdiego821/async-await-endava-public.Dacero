@@ -1,0 +1,13 @@
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\obj\Debug\netcoreapp3.1\ProcessFileEx.csprojAssemblyReference.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\obj\Debug\netcoreapp3.1\ProcessFileEx.csproj.CoreCompileInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\obj\Debug\netcoreapp3.1\ProcessFileEx.AssemblyInfoInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\obj\Debug\netcoreapp3.1\ProcessFileEx.AssemblyInfo.cs
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\bin\Debug\netcoreapp3.1\ProcessFileEx.exe
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\bin\Debug\netcoreapp3.1\ProcessFileEx.deps.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\bin\Debug\netcoreapp3.1\ProcessFileEx.runtimeconfig.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\bin\Debug\netcoreapp3.1\ProcessFileEx.runtimeconfig.dev.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\bin\Debug\netcoreapp3.1\ProcessFileEx.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\bin\Debug\netcoreapp3.1\ProcessFileEx.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\obj\Debug\netcoreapp3.1\ProcessFileEx.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\obj\Debug\netcoreapp3.1\ProcessFileEx.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\ProcessFileEx\obj\Debug\netcoreapp3.1\ProcessFileEx.genruntimeconfig.cache

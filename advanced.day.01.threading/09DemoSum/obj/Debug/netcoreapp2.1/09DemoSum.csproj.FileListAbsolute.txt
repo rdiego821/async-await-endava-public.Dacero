@@ -10,3 +10,15 @@ C:\AsyncTraining\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09D
 C:\AsyncTraining\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.pdb
 C:\AsyncTraining\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.genruntimeconfig.cache
 C:\AsyncTraining\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.csprojAssemblyReference.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.deps.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.runtimeconfig.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.runtimeconfig.dev.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.csprojAssemblyReference.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.csproj.CoreCompileInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.AssemblyInfoInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.AssemblyInfo.cs
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.genruntimeconfig.cache
