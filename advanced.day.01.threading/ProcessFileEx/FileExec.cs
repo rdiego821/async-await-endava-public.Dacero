@@ -7,7 +7,7 @@ namespace ProcessFileEx
 {
     public class FileExec
     {
-        private const string Path = "..\\MyFiles";
+        private const string Path = "..\\..\\..\\MyFiles";
 
         public void ReadFile()
         {
