@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Threading;
 
 namespace ProcessFileEx
@@ -7,9 +8,18 @@ namespace ProcessFileEx
     {
         static void Main(string[] args)
         {
-            Thread tr = new Thread(new FileExec().ReadFilesInDirectory);
-            tr.Start();
+            FileExec file = new FileExec();
+            file.WatchDirectory();
 
+            Thread tr = new Thread(file.ProcessFiles);
+            tr.Start();
+            tr.Join();
+
+
+            //Thread tr = new Thread(new FileExec().ReadFilesInDirectory);
+            //tr.Start();
+
+            
         }
     }
 }

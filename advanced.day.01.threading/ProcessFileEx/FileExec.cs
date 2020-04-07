@@ -2,30 +2,23 @@
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
+using System.Security.Permissions;
 
 namespace ProcessFileEx
 {
     public class FileExec
     {
-        private const string Path = "..\\..\\..\\MyFiles";
+        private const string Path = @"C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\MyFiles\";
+        public Queue<string> files = new Queue<string>();
+        public List<StreamReader> OutputFiles = new List<StreamReader>();
+        public int NumberOfFiles = 0;
 
-        public void ReadFile()
+        public void ReadFile(string FileName)
         {
-            if (!File.Exists(Path))
-            {
-                // Create a file to write to.
-                using (StreamWriter sw = File.CreateText(Path))
-                {
-                    sw.WriteLine("Hello");
-                    sw.WriteLine("And");
-                    sw.WriteLine("Welcome");
-                }
-            }
-
-            // Open the file to read from.
-            using (StreamReader sr = File.OpenText(Path))
+            using (StreamReader sr = File.OpenText(Path + FileName))
             {
                 string s;
+                Console.WriteLine($"File name: {FileName} - Content: ");
                 while ((s = sr.ReadLine()) != null)
                 {
                     Console.WriteLine(s);
@@ -33,25 +26,37 @@ namespace ProcessFileEx
             }
         }
 
-        public void ReadFilesInDirectory()
+        // Consumer
+        public void ProcessFiles()
         {
-            string mydocpath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            StringBuilder sb = new StringBuilder();
-            foreach (string txtName in Directory.GetFiles(@Path, "*.txt"))
+            while(files.Count > 0)
+                ReadFile(files.Dequeue());
+        }
+
+        [PermissionSet(SecurityAction.Demand, Name = "FullTrust")]
+        public void WatchDirectory()
+        {
+            using (FileSystemWatcher watcher = new FileSystemWatcher())
             {
-                using (StreamReader sr = new StreamReader(txtName))
-                {
-                    sb.AppendLine(txtName.ToString());
-                    sb.AppendLine("= = = = = =");
-                    sb.Append(sr.ReadToEnd());
-                    sb.AppendLine();
-                    sb.AppendLine();
-                }
+                watcher.Path = Path;
+
+                watcher.NotifyFilter = NotifyFilters.LastAccess
+                                     | NotifyFilters.LastWrite
+                                     | NotifyFilters.FileName
+                                     | NotifyFilters.DirectoryName;
+
+                watcher.Filter = "*.txt";
+                watcher.Created += EnqueueFile;
+                watcher.EnableRaisingEvents = true;
+                while (NumberOfFiles <= 10) ;
             }
-            using (StreamWriter outfile = new StreamWriter(mydocpath + @"\AllTxtFiles.txt"))
-            {
-                outfile.Write(sb.ToString());
-            }
+        }
+
+        // Define the event handlers. Producer
+        private void EnqueueFile(object source, FileSystemEventArgs e)
+        {
+            files.Enqueue(e.Name);
+            NumberOfFiles++;
         }
     }
  }
