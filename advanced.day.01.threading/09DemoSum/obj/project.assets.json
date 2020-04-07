@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AsyncTraining\\advanced.day.02.threading\\09DemoSum\\09DemoSum.csproj",
+      "projectUniqueName": "C:\\AsyncTraining\\Exercise1\\async-await-endava-public.Dacero\\advanced.day.01.threading\\09DemoSum\\09DemoSum.csproj",
       "projectName": "09DemoSum",
-      "projectPath": "C:\\AsyncTraining\\advanced.day.02.threading\\09DemoSum\\09DemoSum.csproj",
+      "projectPath": "C:\\AsyncTraining\\Exercise1\\async-await-endava-public.Dacero\\advanced.day.01.threading\\09DemoSum\\09DemoSum.csproj",
       "packagesPath": "C:\\Users\\dacero\\.nuget\\packages\\",
-      "outputPath": "C:\\AsyncTraining\\advanced.day.02.threading\\09DemoSum\\obj\\",
+      "outputPath": "C:\\AsyncTraining\\Exercise1\\async-await-endava-public.Dacero\\advanced.day.01.threading\\09DemoSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dacero\\AppData\\Roaming\\NuGet\\NuGet.Config",

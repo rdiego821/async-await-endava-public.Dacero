@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cxz2EnimEmfsu0HSqetlXpFlRKaWEIASdMqKFnsbFb9oG+oMSV+ZPFnGMm/LRk+rdZlMxTu4VCXVBlUkouGKnA==",
+  "dgSpecHash": "5+rD2SHrpFrhnkNVXogc0FK/cnn5exipWY6MVCA5JRGiI+huueANksg1LMt3gBAysFauXhWrsXz9X8GDH/shhw==",
   "success": true,
-  "projectFilePath": "C:\\AsyncTraining\\advanced.day.02.threading\\11RaceCondition\\11RaceCondition.csproj",
+  "projectFilePath": "C:\\AsyncTraining\\Exercise1\\async-await-endava-public.Dacero\\advanced.day.01.threading\\11RaceCondition\\11RaceCondition.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dacero\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\dacero\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
