@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 using System.Security.Permissions;
+using System.Threading;
 
 namespace ProcessFileEx
 {
@@ -10,8 +11,8 @@ namespace ProcessFileEx
     {
         private const string Path = @"C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\MyFiles\";
         public Queue<string> files = new Queue<string>();
-        public List<StreamReader> OutputFiles = new List<StreamReader>();
         public int NumberOfFiles = 0;
+        static SemaphoreSlim _sem = new SemaphoreSlim(4);
 
         public void ReadFile(string FileName)
         {
@@ -29,8 +30,10 @@ namespace ProcessFileEx
         // Consumer
         public void ProcessFiles()
         {
-            while(files.Count > 0)
+            _sem.Wait();
+            while (files.Count > 0)
                 ReadFile(files.Dequeue());
+            _sem.Release();
         }
 
         [PermissionSet(SecurityAction.Demand, Name = "FullTrust")]

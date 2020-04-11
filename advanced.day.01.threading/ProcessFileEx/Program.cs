@@ -14,12 +14,6 @@ namespace ProcessFileEx
             Thread tr = new Thread(file.ProcessFiles);
             tr.Start();
             tr.Join();
-
-
-            //Thread tr = new Thread(new FileExec().ReadFilesInDirectory);
-            //tr.Start();
-
-            
         }
     }
 }

@@ -1,0 +1,13 @@
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\bin\Debug\netcoreapp3.1\JsonPlaceHolderEx.exe
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\bin\Debug\netcoreapp3.1\JsonPlaceHolderEx.deps.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\bin\Debug\netcoreapp3.1\JsonPlaceHolderEx.runtimeconfig.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\bin\Debug\netcoreapp3.1\JsonPlaceHolderEx.runtimeconfig.dev.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\bin\Debug\netcoreapp3.1\JsonPlaceHolderEx.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\bin\Debug\netcoreapp3.1\JsonPlaceHolderEx.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\obj\Debug\netcoreapp3.1\JsonPlaceHolderEx.csprojAssemblyReference.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\obj\Debug\netcoreapp3.1\JsonPlaceHolderEx.csproj.CoreCompileInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\obj\Debug\netcoreapp3.1\JsonPlaceHolderEx.AssemblyInfoInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\obj\Debug\netcoreapp3.1\JsonPlaceHolderEx.AssemblyInfo.cs
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\obj\Debug\netcoreapp3.1\JsonPlaceHolderEx.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\obj\Debug\netcoreapp3.1\JsonPlaceHolderEx.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\JsonPlaceHolderEx\obj\Debug\netcoreapp3.1\JsonPlaceHolderEx.genruntimeconfig.cache
