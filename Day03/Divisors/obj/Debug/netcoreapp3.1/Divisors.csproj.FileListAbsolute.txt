@@ -1,0 +1,13 @@
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\bin\Debug\netcoreapp3.1\Divisors.exe
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\bin\Debug\netcoreapp3.1\Divisors.deps.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\bin\Debug\netcoreapp3.1\Divisors.runtimeconfig.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\bin\Debug\netcoreapp3.1\Divisors.runtimeconfig.dev.json
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\bin\Debug\netcoreapp3.1\Divisors.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\bin\Debug\netcoreapp3.1\Divisors.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\obj\Debug\netcoreapp3.1\Divisors.csproj.CoreCompileInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\obj\Debug\netcoreapp3.1\Divisors.AssemblyInfoInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\obj\Debug\netcoreapp3.1\Divisors.AssemblyInfo.cs
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\obj\Debug\netcoreapp3.1\Divisors.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\obj\Debug\netcoreapp3.1\Divisors.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\obj\Debug\netcoreapp3.1\Divisors.genruntimeconfig.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\Divisors\obj\Debug\netcoreapp3.1\Divisors.csprojAssemblyReference.cache

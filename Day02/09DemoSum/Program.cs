@@ -19,7 +19,6 @@
             t1.Start();
             t1.Wait();
 
-            arrayProcessor.CalculateSum();
             var totalSum = arrayProcessor.Sum;
 
             stopwatch.Stop();

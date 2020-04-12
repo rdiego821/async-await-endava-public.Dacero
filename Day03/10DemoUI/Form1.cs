@@ -5,27 +5,42 @@
     using System.IO;
     using System.Linq;
     using System.Threading;
+    using System.Threading.Tasks;
     using System.Windows.Forms;
     using Core;
 
     public partial class Form1 : Form
     {
         private const string Path = "..\\..\\..\\cars.csv";
+        private delegate void SafeCallDelegate(string text);
+        TaskScheduler _uiScheduler;
 
         public Form1()
         {
             this.InitializeComponent();
+            _uiScheduler = TaskScheduler.FromCurrentSynchronizationContext();
         }
 
         private void GetDataBtn_Click(object sender, EventArgs e)
         {
             this.Log("start to process file");
 
-            var cars = this.ProcessCarsFile(Path).ToList();
+            Task task1 = Task.Factory.StartNew(() =>
+            {
+                return this.ProcessCarsFile(Path).ToList();
 
-            this.DisplayCars(cars);
-
-            this.Log($"finish to process file. {cars.Count()} cars downloaded");
+            }).ContinueWith(ant =>
+            {
+                if (ant.Exception != null)
+                {
+                    Console.WriteLine(ant.Exception.Message);
+                }
+                else
+                {
+                    this.DisplayCars(ant.Result);
+                    this.Log($"finish to process file. {ant.Result.Count()} cars downloaded");
+                }
+            }, _uiScheduler);
         }
 
         private void DisplayCars(List<Car> cars)
@@ -58,9 +73,17 @@
 
         public void AppendToContent(string s)
         {
-            this.contentTxb.AppendText($"{s}{Environment.NewLine}");
+            if (this.contentTxb.InvokeRequired)
+            {
+                var d = new SafeCallDelegate(AppendToContent);
+                contentTxb.Invoke(d, new object[] { s });
+            }
+            else
+            {
 
-            //Thread.Sleep(TimeSpan.FromSeconds(3)); // simulate other work
+                this.contentTxb.AppendText($"{s}{Environment.NewLine}");
+            }
         }
     }
 }
+

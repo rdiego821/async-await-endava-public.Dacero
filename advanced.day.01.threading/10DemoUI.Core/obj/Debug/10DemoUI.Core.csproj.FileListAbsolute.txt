@@ -9,3 +9,4 @@ C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.thre
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI.Core\obj\Debug\10DemoUI.Core.csproj.CoreCompileInputs.cache
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI.Core\obj\Debug\10DemoUI.Core.dll
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI.Core\obj\Debug\10DemoUI.Core.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\advanced.day.01.threading\10DemoUI.Core\obj\Debug\10DemoUI.Core.csprojAssemblyReference.cache

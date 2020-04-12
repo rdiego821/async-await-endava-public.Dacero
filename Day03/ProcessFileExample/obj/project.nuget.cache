@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZD3M0Id+VVP+PUdfohZcJwwKrLd5a/a2NLMPma4zD7E0Z3BcoYOsXmOIS/Gf+cOIvqj2G40QBxdxXSPEG0J7A==",
+  "success": true,
+  "projectFilePath": "C:\\AsyncTraining\\Exercise1\\async-await-endava-public.Dacero\\Day03\\ProcessFileExample\\ProcessFileExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacero\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\dacero\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\dacero\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\dacero\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\dacero\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\dacero\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\dacero\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

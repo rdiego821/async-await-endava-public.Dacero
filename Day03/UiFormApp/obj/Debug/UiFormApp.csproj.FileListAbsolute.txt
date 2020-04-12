@@ -1,0 +1,9 @@
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\UiFormApp\bin\Debug\UiFormApp.exe.config
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\UiFormApp\bin\Debug\UiFormApp.exe
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\UiFormApp\bin\Debug\UiFormApp.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\UiFormApp\obj\Debug\UiFormApp.Properties.Resources.resources
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\UiFormApp\obj\Debug\UiFormApp.UiForm.resources
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\UiFormApp\obj\Debug\UiFormApp.csproj.GenerateResource.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\UiFormApp\obj\Debug\UiFormApp.csproj.CoreCompileInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\UiFormApp\obj\Debug\UiFormApp.exe
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\UiFormApp\obj\Debug\UiFormApp.pdb

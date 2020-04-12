@@ -2,6 +2,7 @@
 {
     using System;
     using System.Diagnostics;
+    using System.Threading.Tasks;
 
     internal class Program
     {
@@ -14,7 +15,10 @@
 
             var arrayProcessor = new ArrayProcessor(array, 0, arraySize);
 
-            arrayProcessor.CalculateSum();
+            Task t1 = new Task(arrayProcessor.CalculateSum);
+            t1.Start();
+            t1.Wait();
+
             var totalSum = arrayProcessor.Sum;
 
             stopwatch.Stop();

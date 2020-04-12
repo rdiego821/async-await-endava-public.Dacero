@@ -1,0 +1,5 @@
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\10DemoUI.Core\bin\Debug\10DemoUI.Core.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\10DemoUI.Core\bin\Debug\10DemoUI.Core.pdb
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\10DemoUI.Core\obj\Debug\10DemoUI.Core.csproj.CoreCompileInputs.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\10DemoUI.Core\obj\Debug\10DemoUI.Core.dll
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day03\10DemoUI.Core\obj\Debug\10DemoUI.Core.pdb
