@@ -13,12 +13,17 @@
     {
         private const string Path = "..\\..\\..\\cars.csv";
         private delegate void SafeCallDelegate(string text);
+        TaskScheduler _uiScheduler;
 
         public Form1()
         {
             this.InitializeComponent();
+
+            _uiScheduler = TaskScheduler.FromCurrentSynchronizationContext();
+          
         }
 
+       
         private void GetDataBtn_Click(object sender, EventArgs e)
         {
             this.Log("start to process file");
@@ -38,9 +43,8 @@
                     this.DisplayCars(ant.Result);
                     this.Log($"finish to process file. {ant.Result.Count()} cars downloaded");
                 }
-            });
+            }, _uiScheduler);
 
-            task1.Wait();
         }
 
         private void DisplayCars(List<Car> cars)
