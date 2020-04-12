@@ -3,10 +3,10 @@ C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceConditio
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\bin\Debug\netcoreapp2.1\11RaceCondition.runtimeconfig.dev.json
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\bin\Debug\netcoreapp2.1\11RaceCondition.dll
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\bin\Debug\netcoreapp2.1\11RaceCondition.pdb
-C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.csprojAssemblyReference.cache
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.csproj.CoreCompileInputs.cache
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.AssemblyInfoInputs.cache
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.AssemblyInfo.cs
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.dll
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.pdb
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.genruntimeconfig.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.csprojAssemblyReference.cache

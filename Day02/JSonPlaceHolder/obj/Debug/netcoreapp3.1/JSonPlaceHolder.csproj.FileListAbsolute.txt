@@ -10,3 +10,4 @@ C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\JSonPlaceHolde
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\JSonPlaceHolder\obj\Debug\netcoreapp3.1\JSonPlaceHolder.dll
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\JSonPlaceHolder\obj\Debug\netcoreapp3.1\JSonPlaceHolder.pdb
 C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\JSonPlaceHolder\obj\Debug\netcoreapp3.1\JSonPlaceHolder.genruntimeconfig.cache
+C:\AsyncTraining\Exercise1\async-await-endava-public.Dacero\Day02\JSonPlaceHolder\obj\Debug\netcoreapp3.1\JSonPlaceHolder.csprojAssemblyReference.cache
